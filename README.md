@@ -13,7 +13,7 @@ Hier ist Platz für Freizeitprojekte, neue Ideen und Dinge, die einfach Spaß ma
 | 🎮 **Gaming** | Zocken, Retro-Feeling und eigene Spielideen. |
 | 🤖 **AI** | Mit KI experimentieren und kreative Ideen ausprobieren. |
 | 🏠 **Home Automation** | Das Zuhause mit kleinen Automationen angenehmer machen. |
-| 🖨️ **3D Printing** | Ideen entwerfen, drucken und in die Hand nehmen. |
+| 🖨️ **3D Printing** | Eigene Ideen entwerfen und mit dem 3D-Drucker umsetzen. |
 | 🖥️ **Selfhosting** | Eigene Dienste betreiben und am Homelab tüfteln. |
 
 ## GitHub in Zahlen
